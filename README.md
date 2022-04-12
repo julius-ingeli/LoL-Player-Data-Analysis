@@ -4,8 +4,11 @@
 Authors:
  
 [Julius Ingeli]()
+
 [Mateusz Sochanowski]()
+
 [Ferenc Lippai]()
+
 
 This project is an data analysis project of data that was provided in [this GitHub repository](https://github.com/smerdov/eSports_Sensors_Dataset).
 
