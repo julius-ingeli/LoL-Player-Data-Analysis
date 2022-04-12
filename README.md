@@ -3,9 +3,9 @@
 
 Authors:
  
-[Julius Ingeli]()
+[Julius Ingeli](https://github.com/julius-ingeli)
 
-[Mateusz Sochanowski]()
+[Mateusz Sochanowski](https://github.com/msochan)
 
 [Ferenc Lippai]()
 
