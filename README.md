@@ -7,7 +7,7 @@ Authors:
 
 [Mateusz Sochanowski](https://github.com/msochan)
 
-[Ferenc Lippai]()
+[Ferenc Lippai](https://github.com/zyarra)
 
 
 This project is an data analysis project of data that was provided in [this GitHub repository](https://github.com/smerdov/eSports_Sensors_Dataset).
