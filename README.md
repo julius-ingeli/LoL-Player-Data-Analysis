@@ -23,5 +23,5 @@ with packages:
 
 
 ## Questions for analysis:
-1. How do amateur and pro players compare in playtime?
+1. How do amateur and pro players compare in playtime and ranks?
 2. How do sensor readings differ between a good and a bad player when an even (kill, asssit, death) happens
